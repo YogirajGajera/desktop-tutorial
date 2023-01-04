@@ -16,9 +16,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    @IBAction func btn_hide(_ sender: UIButton) {
-       sender.buttonType
-    }
+    
+    
     
 }
 
